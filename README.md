@@ -28,8 +28,8 @@ I have led diverse international teams, mentoring developers, driving best pract
 
 [![View CV](https://img.shields.io/badge/View%20CV-PDF-blue?style=for-the-badge&logo=readthedocs)](./CVSerhiyKrasovskyy.pdf)
 
-You can also [📥 Download CV (PDF)](https://github.com/XHunter74/xhunter74/releases/download/v1.0/CVSerhiyKrasovskyy.pdf)
- of my resume to learn more about my experience, skills, and achievements.
+You can also [📥 Download my CV (PDF)](https://github.com/XHunter74/xhunter74/releases/download/v1.0/CVSerhiyKrasovskyy.pdf)
+ to learn more about my experience, skills, and achievements.
 
 
 🔗 I’m open to exciting opportunities in software architecture, cloud-based solutions, and technical leadership. Let's connect!
